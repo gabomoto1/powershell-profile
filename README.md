@@ -19,7 +19,7 @@ After running the script, you'll find a downloaded `cove.zip` file in the folder
 
 Now, enjoy your enhanced and stylish PowerShell experience! 🚀
 
-## 🛠️ Credits for:
+## :memo: Credits for:
 ```
 https://github.com/ChrisTitusTech/powershell-profile
 ```
